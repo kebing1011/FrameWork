@@ -1,0 +1,13 @@
+#ignore system files
+.*
+!.gitignore
+Products/
+build/
+DerivedData/
+
+
+#ignore Xcode part proj files
+
+*.xcodeproj/.*
+*.xcodeproj/project.xcworkspace/
+*.xcodeproj/xcuserdata/
